@@ -2,6 +2,9 @@
 
 Sick of ad clutter? Scrapr's your escape. Run scripts, block ads, and just browse.
 
+Download below:
+- Paid version: https://link.n-o.me/paid-scrapr
+
 ### 🌟 Key Features:
 
 • Transform any website into a mobile masterpiece
