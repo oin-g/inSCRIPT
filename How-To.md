@@ -9,7 +9,7 @@ Below is how to use our Scrapr App. There are three options on how to quickly ge
 - You are good to go!
 
 ### 2. Find our scripts from online 🔎
-- Step 1: Browse available of unofficial scripts: unofficial-scripts.pages.dev
+- Step 1: Browse available of unofficial scripts: [unofficial-scrapr.surge.sh](https://unofficial-scrapr.surge.sh)
 - Step 2: Download the (.yaml) file
 - Step 3: In add page, upload that .yaml file
 - Step 4: Validation kicks in
