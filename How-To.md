@@ -1,5 +1,5 @@
-## How To Use Scrapr App
-Below is how to use our Scrapr App. There are three options on how to quickly getting start.
+## How To Use inSCRIPT App
+Below is how to use our inSCRIPT App. There are three options on how to quickly getting start.
 
 ### 1. Install from our Sample 📥
 - Hops into our app
