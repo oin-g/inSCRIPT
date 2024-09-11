@@ -1,6 +1,6 @@
 ## Scrapr Pro: run scripts.
 
-Sick of ad clutter? Scrapr's your escape. Run scripts, block ads, and just browse.
+Sick of ad clutter? inSCRIPT's your escape. Run scripts, block ads, and just browse.
 
 Download below:
 - Paid version: https://link.n-o.me/paid-scrapr
@@ -17,11 +17,11 @@ Download below:
 2. https://github.com/ze-ro-us/scrapr-app/blob/main/release-note.md
 
 ### ⚠️ Important Note:
-"Scrapr serves as a platform for executing pre-defined scripts. We do not own, store, or distribute any content. All content is sourced directly from the websites specified in the scripts, and Scrapr acts solely as a conduit for accessing that content."
+"inSCRIPT serves as a platform for executing pre-defined scripts. We do not own, store, or distribute any content. All content is sourced directly from the websites specified in the scripts, and inSCRIPT acts solely as a conduit for accessing that content."
  
 ### 🚫 Disclaimer:
-1. Scrapr's role: It's a platform, not a content provider.
+1. inSCRIPT's role: It's a platform, not a content provider.
 2. Content ownership: All content belongs to the original website owners.
-3. Scrapr's function: It facilitates access to content through scripts.
-4. RSS feed utilization: Scrapr uses RSS feeds as a data source.
+3. inSCRIPT's function: It facilitates access to content through scripts.
+4. RSS feed utilization: inSCRIPT uses RSS feeds as a data source.
 5. Legal compliance: Users are responsible for understanding and complying with local laws.
