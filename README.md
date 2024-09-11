@@ -1,4 +1,4 @@
-## Scrapr Pro: run scripts.
+## inSCRIPTS: do more with scripts.
 
 Sick of ad clutter? inSCRIPT's your escape. Run scripts, block ads, and just browse.
 
@@ -13,8 +13,8 @@ Download below:
 • Wide Range of Sites: Browse effortlessly across a vast array of websites. From torrents (1337x, Kickass, Pirate Bay, Yts, MangaKiss, nyaa, and more) to beyond, Scrapr has you covered.
 
 ### How To Use:
-1. https://github.com/ze-ro-us/scrapr-app/blob/main/How-To.md
-2. https://github.com/ze-ro-us/scrapr-app/blob/main/release-note.md
+1. https://github.com/oin-g/inSCRIPT/blob/main/How-To.md
+2. https://github.com/oin-g/inSCRIPT/blob/main/README.md
 
 ### ⚠️ Important Note:
 "inSCRIPT serves as a platform for executing pre-defined scripts. We do not own, store, or distribute any content. All content is sourced directly from the websites specified in the scripts, and inSCRIPT acts solely as a conduit for accessing that content."
